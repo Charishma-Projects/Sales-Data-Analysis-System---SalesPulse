@@ -1,0 +1,48 @@
+sale_id,product_id,product_name,category,sale_date,quantity,unit_price,total_revenue,region,created_at
+TXN-1047,P-107,USB-C Multiport Hub,Accessories,2026-06-30,52,45.0,2340.0,West,2026-10-24 06:37:27
+TXN-1046,P-106,Wireless Ergonomic Mouse,Accessories,2026-06-26,65,35.0,2275.0,South,2026-10-24 06:37:27
+TXN-1045,P-110,Executive Ballpoint Pen,Office Supplies,2026-06-22,140,12.0,1680.0,East,2026-10-24 06:37:27
+TXN-1044,P-109,Thermal Receipt Printer,Electronics,2026-06-18,18,129.0,2322.0,North,2026-10-24 06:37:27
+TXN-1043,P-101,Ultra HD 4K Monitor,Electronics,2026-06-14,25,349.99,8749.75,Central,2026-10-24 06:37:27
+TXN-1042,P-102,Mechanical Gaming Keyboard,Electronics,2026-06-10,40,89.5,3580.0,West,2026-10-24 06:37:27
+TXN-1041,P-104,Noise-Cancelling Headphones,Electronics,2026-06-06,28,179.99,5039.72,South,2026-10-24 06:37:27
+TXN-1040,P-105,Adjustable Standing Desk,Furniture,2026-06-02,12,450.0,5400.0,North,2026-10-24 06:37:27
+TXN-1039,P-103,Ergonomic Office Chair,Furniture,2026-05-28,15,220.0,3300.0,East,2026-10-24 06:37:27
+TXN-1038,P-107,USB-C Multiport Hub,Accessories,2026-05-24,48,45.0,2160.0,Central,2026-10-24 06:37:27
+TXN-1037,P-111,Smart LED Desk Lamp,Furniture,2026-05-20,40,59.99,2399.6,South,2026-10-24 06:37:27
+TXN-1036,P-106,Wireless Ergonomic Mouse,Accessories,2026-05-16,70,35.0,2450.0,North,2026-10-24 06:37:27
+TXN-1035,P-101,Ultra HD 4K Monitor,Electronics,2026-05-12,22,349.99,7699.78,West,2026-10-24 06:37:27
+TXN-1034,P-108,Leather Journal Notebook,Office Supplies,2026-05-08,75,18.5,1387.5,Central,2026-10-24 06:37:27
+TXN-1033,P-102,Mechanical Gaming Keyboard,Electronics,2026-05-04,35,89.5,3132.5,East,2026-10-24 06:37:27
+TXN-1032,P-105,Adjustable Standing Desk,Furniture,2026-04-30,11,450.0,4950.0,West,2026-10-24 06:37:27
+TXN-1031,P-104,Noise-Cancelling Headphones,Electronics,2026-04-26,30,179.99,5399.7,North,2026-10-24 06:37:27
+TXN-1030,P-110,Executive Ballpoint Pen,Office Supplies,2026-04-22,120,12.0,1440.0,West,2026-10-24 06:37:27
+TXN-1029,P-103,Ergonomic Office Chair,Furniture,2026-04-18,16,220.0,3520.0,South,2026-10-24 06:37:27
+TXN-1028,P-109,Thermal Receipt Printer,Electronics,2026-04-14,14,129.0,1806.0,East,2026-10-24 06:37:27
+TXN-1027,P-107,USB-C Multiport Hub,Accessories,2026-04-10,50,45.0,2250.0,North,2026-10-24 06:37:27
+TXN-1026,P-101,Ultra HD 4K Monitor,Electronics,2026-04-06,20,349.99,6999.8,Central,2026-10-24 06:37:27
+TXN-1025,P-106,Wireless Ergonomic Mouse,Accessories,2026-04-03,60,35.0,2100.0,South,2026-10-24 06:37:27
+TXN-1024,P-111,Smart LED Desk Lamp,Furniture,2026-03-29,35,59.99,2099.65,Central,2026-10-24 06:37:27
+TXN-1023,P-104,Noise-Cancelling Headphones,Electronics,2026-03-26,25,179.99,4499.75,West,2026-10-24 06:37:27
+TXN-1022,P-105,Adjustable Standing Desk,Furniture,2026-03-22,9,450.0,4050.0,East,2026-10-24 06:37:27
+TXN-1021,P-103,Ergonomic Office Chair,Furniture,2026-03-18,14,220.0,3080.0,North,2026-10-24 06:37:27
+TXN-1020,P-108,Leather Journal Notebook,Office Supplies,2026-03-15,80,18.5,1480.0,South,2026-10-24 06:37:27
+TXN-1019,P-102,Mechanical Gaming Keyboard,Electronics,2026-03-11,28,89.5,2506.0,Central,2026-10-24 06:37:27
+TXN-1018,P-101,Ultra HD 4K Monitor,Electronics,2026-03-07,18,349.99,6299.82,East,2026-10-24 06:37:27
+TXN-1017,P-107,USB-C Multiport Hub,Accessories,2026-03-03,45,45.0,2025.0,West,2026-10-24 06:37:27
+TXN-1016,P-106,Wireless Ergonomic Mouse,Accessories,2026-02-27,55,35.0,1925.0,North,2026-10-24 06:37:27
+TXN-1015,P-105,Adjustable Standing Desk,Furniture,2026-02-24,7,450.0,3150.0,Central,2026-10-24 06:37:27
+TXN-1014,P-110,Executive Ballpoint Pen,Office Supplies,2026-02-20,95,12.0,1140.0,East,2026-10-24 06:37:27
+TXN-1013,P-104,Noise-Cancelling Headphones,Electronics,2026-02-16,22,179.99,3959.78,South,2026-10-24 06:37:27
+TXN-1012,P-103,Ergonomic Office Chair,Furniture,2026-02-12,12,220.0,2640.0,West,2026-10-24 06:37:27
+TXN-1011,P-109,Thermal Receipt Printer,Electronics,2026-02-08,10,129.0,1290.0,Central,2026-10-24 06:37:27
+TXN-1010,P-102,Mechanical Gaming Keyboard,Electronics,2026-02-05,30,89.5,2685.0,North,2026-10-24 06:37:27
+TXN-1009,P-101,Ultra HD 4K Monitor,Electronics,2026-02-02,15,349.99,5249.85,South,2026-10-24 06:37:27
+TXN-1008,P-108,Leather Journal Notebook,Office Supplies,2026-01-28,60,18.5,1110.0,East,2026-10-24 06:37:27
+TXN-1007,P-107,USB-C Multiport Hub,Accessories,2026-01-25,32,45.0,1440.0,West,2026-10-24 06:37:27
+TXN-1006,P-106,Wireless Ergonomic Mouse,Accessories,2026-01-22,40,35.0,1400.0,Central,2026-10-24 06:37:27
+TXN-1005,P-105,Adjustable Standing Desk,Furniture,2026-01-19,5,450.0,2250.0,North,2026-10-24 06:37:27
+TXN-1004,P-104,Noise-Cancelling Headphones,Electronics,2026-01-15,18,179.99,3239.82,East,2026-10-24 06:37:27
+TXN-1003,P-103,Ergonomic Office Chair,Furniture,2026-01-12,8,220.0,1760.0,South,2026-10-24 06:37:27
+TXN-1002,P-102,Mechanical Gaming Keyboard,Electronics,2026-01-08,25,89.5,2237.5,West,2026-10-24 06:37:27
+TXN-1001,P-101,Ultra HD 4K Monitor,Electronics,2026-01-05,12,349.99,4199.88,North,2026-10-24 06:37:27
